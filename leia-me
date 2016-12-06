@@ -1,0 +1,18 @@
+# Como Usar?
+
+1) - Criar uma pasta dentro do diretorio do seu projeto, eu por definicao padrao criar pasta com nome config.
+     Ex: /projeto/config
+     
+2) - Definir os dados de acesso no arquivo config.def.php
+    Ex:
+    define('PORT', '3306');
+    define('USER', 'root');
+    
+3) - Incluir arquivo config.def.php no seu index.php
+     Ex: require_once('config/config.def.php');
+
+# O Desenvolvimento
+    Esse conteudo foi desenvolvido para auxiliar usuarios que queiram trabalhar com todos bancos
+de dados que suportados pelo servidor hospedado, MYSQL, POSTGRE, FIREBIRD, ORACLE, SQLSERVER...
+
+Leandro S. Correa
