@@ -16,6 +16,10 @@ Instanciar obj unico para conexao bom DB.
 #Banco de dados suportado.
 @suporte aos seguintes banco de dados.
 
-MYSQL, ORACLE, FIREBIRD, MYSQLSERVER, POSTGRE...
+MYSQL, ORACLE, FIREBIRD, SQL-SERVER, POSTGRE...
 
 
+#Conteudo Extra
+Como instanciar um obj e criar uma consulta sql com apaenas 5 linhas e ter um retorno dos dados em array ou obj
+
+lscorrea/PDO-DO-JEITO-CERTO
